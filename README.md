@@ -21,7 +21,7 @@ Here are a few things I've picked up along my learning journey!
 
 ##🔥 Github Stats
   </a>
-  <a href="https://github.com/jonastirona"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/user=jonastirona&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/jonastirona"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📫 Reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
