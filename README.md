@@ -25,3 +25,5 @@ Here are a few things I've picked up along my learning journey!
 
 ## 📫 Reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
+
+![](https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet)
