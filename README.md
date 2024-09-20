@@ -1,12 +1,12 @@
 <!--- special thanks to https://github.com/adnanazmee, I took inspiration from his profile to make this! --->
-# <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="32px" width="32px"> Hi, I am Jonas Tirona! <img src="https://c.tenor.com/9PTGVf4BLwYAAAAC/tenor.gif" height ="32px" width="32px">
+# <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="32px" width="32px"> Hi, I am Jonas Tirona! <img src="https://i.imgur.com/fIdsmtu.gif" height ="32px" width="32px">
 
 Hello! I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion lies in developing software solutions that address real-life challenges, both for myself and others. 
 
 
 ## 😎 Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here are a few things I've picked up along my learning journey!
 
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
@@ -19,5 +19,5 @@ Here are a few things I've picked up along my learning journey.
  
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) || [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
+## 📫 Reach out!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
