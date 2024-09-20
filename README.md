@@ -20,8 +20,8 @@ Here are a few things I've picked up along my learning journey!
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ##🔥 Github Stats
-  <a href="https://github.com/jonastirona"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=jonastirona&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/jonastirona"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  </a>
+  <a href="https://github.com/jonastirona"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/user=jonastirona&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📫 Reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
