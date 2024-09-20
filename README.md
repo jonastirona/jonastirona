@@ -1,5 +1,5 @@
 <!--- special thanks to https://github.com/adnanazmee, I took inspiration from his profile to make this! --->
-# <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="32px" width="32px"> Hi, I am Jonas Tirona! 👨‍💻
+# <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="32px" width="32px"> Hi, I am Jonas Tirona! <img src="https://c.tenor.com/9PTGVf4BLwYAAAAC/tenor.gif" height ="32px" width="32px">
 
 Hello! I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion lies in developing software solutions that address real-life challenges, both for myself and others. 
 
