@@ -19,8 +19,8 @@ Here are a few things I've picked up along my learning journey!
  
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-##🔥 Github Stats
-  </a>
+## 🔥 Github Stats
+  <br>
   <a href="https://github.com/jonastirona"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📫 Reach out!
