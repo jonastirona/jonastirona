@@ -57,8 +57,8 @@ Here are a few things I've picked up along my learning journey!
 
 <h2>🔥 Github Stats</h2>
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=material-palenight&hide_border=true" alt="Streak Stats" height="180px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="180px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=material-palenight&hide_border=true" alt="Streak Stats" height="190px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="190px">
 </div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/>
