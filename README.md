@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey!
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="200px">
 </div>
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/>
 
 ## 📫 Reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
