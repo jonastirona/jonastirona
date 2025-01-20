@@ -2,7 +2,7 @@
 # <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="32px" width="32px"> Hi, I am Jonas Tirona! <img src="https://i.imgur.com/1cGfxIY.gif" height="32px" width="32px">
 
 
-Hello! I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion lies in developing software solutions that address real-life challenges, both for myself and others. 
+I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion lies in developing software solutions that address real-life challenges, both for myself and others. 
 
 ## 😎 Tech Stack
 
@@ -23,8 +23,7 @@ Here are a few things I've picked up along my learning journey!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=material-palenight&hide_border=true" alt="Streak Stats" height="200px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="200px">
 </div>
+![](https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet)
 
 ## 📫 Reach out!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
-
-![](https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/
