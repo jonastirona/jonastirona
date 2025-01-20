@@ -1,3 +1,5 @@
+<!--- special thanks to https://github.com/adnanazmee, https://github.com/AAL1X/, and https://github.com/daria-stanilevici, I used components from their profiles to make mine! --->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1>Hi, I am Jonas Tirona! <img src="https://i.imgur.com/1cGfxIY.gif" height="32px" width="32px"></h1>
 
 <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="200px" width="200px" align="right">
@@ -8,7 +10,9 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, and powerlifting.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
 
-<h2>🏆 My best projects so far:</h2>
+<br><br>
+**🏆 My best projects so far:**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=NutriSyncFrontend&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" />
@@ -20,7 +24,8 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 
   
 
-<h2>😎 Tech Stack</h2>
+**😎 Tech Stack**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Here are a few things I've picked up along my learning journey!
 
@@ -67,7 +72,8 @@ Here are a few things I've picked up along my learning journey!
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<h2>🔥 Github Stats</h2>
+**🔥 Github Stats**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=material-palenight&hide_border=true" alt="Streak Stats" height="190px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="190px">
@@ -75,9 +81,11 @@ Here are a few things I've picked up along my learning journey!
 <br>
 <img src="https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/>
 
-## 📫 Reach out!
+**📫 Reach out!**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
 
 ### Employer?
 > [!IMPORTANT]
 > <a href="https://drive.google.com/file/d/1yeqU7nVN8fcyp0kCXFAsslOJ92i9_BkX/view?usp=sharing" download>Here's my resume!</a>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
