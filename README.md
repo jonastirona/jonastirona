@@ -1,5 +1,6 @@
 <!--- special thanks to https://github.com/adnanazmee, I took inspiration from his profile to make this! --->
-# <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="32px" width="32px"> Hi, I am Jonas Tirona! <img src="https://imgur.com/1cGfxIY" height ="32px" width="32px">
+# <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="32px" width="32px"> Hi, I am Jonas Tirona! <img src="https://i.imgur.com/1cGfxIY.gif" height="32px" width="32px">
+
 
 Hello! I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion lies in developing software solutions that address real-life challenges, both for myself and others. 
 
@@ -18,9 +19,9 @@ Here are a few things I've picked up along my learning journey!
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔥 Github Stats
-<div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=material-palenight&hide_border=true" alt="Streak Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=material-palenight&hide_border=true" alt="Streak Stats" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="200px">
 </div>
 
 ## 📫 Reach out!
