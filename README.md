@@ -8,27 +8,17 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, and powerlifting.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
 
-<h2>🏆 My Best Works so far:</h2>
+<h2>🏆 My best projects so far:</h2>
 
-<details>
-  <summary><a href="https://github.com/jonastirona/NutrisyncFrontend/tree/main">Nutrisync Frontend 🥗</a></summary>
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=NutriSyncFrontend&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" />
+</a>
 
-  Nutrisync is an app dedicated to people trying to improve their fitness and diet habits. It allows users to track their diet throughout the day by logging food they ate while automatically keeping track of the calories and macronutrients accumulated.
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=NutriScanOCR&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" />
+</a>
 
-  - **Developers**: Jonas Tirona, Burhan Naveed
-  - **Technologies Used**: JavaScript, React Native, Expo, Node.js, Express.js, AWS Elastic Beanstalk, MySQL, AWS Relational Database Service
-  - **Project Status**: The frontend React Native app is complete, and the backend is fully developed with two minor bugs currently being addressed.
-</details>
-
-<details>
-  <summary><a href="https://github.com/jonastirona/NutriScanOCR">NutriScanOCR 🔍</a></summary>
-
-  NutriScanOCR is a powerful serverless API that extracts nutritional information from food label images using advanced OCR technology and intelligent text parsing.
-
-  - **Key Features**: Serverless architecture, advanced image processing, comprehensive nutrient detection, data validation & correction, developer-friendly.
-  - **Technologies Used**: TypeScript, Node.js, Express, AWS Textract, Sharp, File Type, AWS Lambda, AWS S3, Serverless Framework, Jest, Supertest
-  - **Project Status**: Completed with all core features implemented and thoroughly tested
-</details>
+  
 
 <h2>😎 Tech Stack</h2>
 
