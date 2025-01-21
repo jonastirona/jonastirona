@@ -87,5 +87,5 @@ Here are a few things I've picked up along my learning journey!
 
 ### Employer?
 > [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1yeqU7nVN8fcyp0kCXFAsslOJ92i9_BkX/view?usp=sharing" download>Here's my resume!</a>
+> <a href="https://drive.google.com/file/d/1AJcGoGXV-aWIrSpDxq6JfpvQ74VJRaI8/view?usp=sharing" download>Here's my resume!</a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
