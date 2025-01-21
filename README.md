@@ -14,11 +14,11 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 **🏆 My best projects so far:**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/jonastirona/NutrisyncFrontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=NutriSyncFrontend&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/jonastirona/NutriScanOCR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=NutriScanOCR&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" />
 </a>
 
