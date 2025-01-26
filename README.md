@@ -10,6 +10,11 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, and powerlifting.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
 
+### Employer?
+> [!IMPORTANT]
+> <a href="https://drive.google.com/file/d/1AJcGoGXV-aWIrSpDxq6JfpvQ74VJRaI8/view?usp=sharing" download>Download my resume!</a>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <br><br>
 **🏆 My best projects so far:**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -84,8 +89,3 @@ Here are a few things I've picked up along my learning journey!
 **📫 Reach out!**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
-
-### Employer?
-> [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1AJcGoGXV-aWIrSpDxq6JfpvQ74VJRaI8/view?usp=sharing" download>Download my resume!</a>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
