@@ -16,7 +16,7 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br><br>
-**🏆 My best projects so far:**
+**🏆 My favorite projects:**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/jonastirona/NutrisyncFrontend">
