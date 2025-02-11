@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="200px" width="200px" align="right">
 <br>
 <br>
-I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion lies in developing software solutions that address real-life challenges, both for myself and others. <br>
+I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion is developing software solutions that address real-life challenges, both for myself and others. <br>
 - 📚 I’m currently working on VisionGuard: an ml-powered security camera system that provides intelligent monitoring and event detection/alerts. <br>
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, and powerlifting.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
