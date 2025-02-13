@@ -6,13 +6,13 @@
 <br>
 <br>
 I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion is developing software solutions that address real-life challenges, both for myself and others. <br>
-- 📚 I’m currently working on VisionGuard: an ml-powered security camera system that provides intelligent monitoring and event detection/alerts. <br>
+- 📚 I’m currently working on VisionGuard, an mL-powered security camera system that provides intelligent monitoring and event detection/alerts. <br>
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, and powerlifting.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
 
-### Employer?
+### Are you an employer?
 > [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1AJcGoGXV-aWIrSpDxq6JfpvQ74VJRaI8/view?usp=sharing" download>Download my resume!</a>
+> <a href="https://drive.google.com/file/d/1AJcGoGXV-aWIrSpDxq6JfpvQ74VJRaI8/view?usp=sharing" download><strong>Here's my resume!</strong></a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br><br>
