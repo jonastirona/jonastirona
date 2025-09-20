@@ -12,15 +12,15 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 
 ### Are you an employer?
 > [!IMPORTANT]
-> <a href="https://drive.google.com/file/d/1AJcGoGXV-aWIrSpDxq6JfpvQ74VJRaI8/view?usp=sharing" download><strong>Here's my resume!</strong></a>
+> <a href="https://drive.google.com/file/d/119LZhRpkaKRYS680_qSfpeIraN7HpFWN/view?usp=sharing" download><strong>Here's my resume!</strong></a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br><br>
 **🏆 My favorite projects:**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/jonastirona/NutrisyncFrontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=NutriSyncFrontend&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" />
+<a href="https://github.com/jonastirona/ao5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=ao5&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" />
 </a>
 
 <a href="https://github.com/jonastirona/NutriScanOCR">
@@ -90,4 +90,4 @@ Here are a few things I've picked up along my learning journey!
 
 **📫 Reach out!**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-tirona-aaba6425b/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonastirona/) [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jonastirona1/)
