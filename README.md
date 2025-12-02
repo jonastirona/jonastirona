@@ -16,15 +16,28 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br><br>
-**🏆 My favorite projects:**
+**🚀 Currently Working On: ao5**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/jonastirona/ao5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=ao5&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" height="200"/>
-</a>
-<a href="https://github.com/jonastirona/NutriScanOCR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonastirona&repo=NutriScanOCR&title_color=ffffff&text_color=c9cacc&icon_color=82aaff&bg_color=2d2a3a" height="200"/>
-</a>
+<div align="center">
+  <a href="https://ao5.app">
+    <img src="https://ao5.app/logo.png" width="120" alt="ao5 Logo" style="border-radius: 20px;">
+  </a>
+  <h3><a href="https://ao5.app">ao5 - Modern Speedcubing Timer</a></h3>
+  <p>
+    <strong>ao5</strong> is a comprehensive, open-source speedcubing timer designed for serious cubers. 
+    It features real-time cloud synchronization, advanced statistics (Ao5, Ao12, Ao100), 
+    support for all WCA puzzles, and a highly customizable interface.
+  </p>
+  <p>
+    Built with <strong>React</strong>, <strong>TypeScript</strong>, <strong>Zustand</strong>, and <strong>Supabase</strong>.
+  </p>
+  <p>
+    <a href="https://ao5.app"><strong>🌐 Try it Live</strong></a> &nbsp;|&nbsp; 
+    <a href="https://github.com/jonastirona/ao5"><strong>💻 View Source</strong></a>
+  </p>
+</div>
+<br>
 
 
   
