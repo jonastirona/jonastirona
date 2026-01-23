@@ -5,7 +5,7 @@
 <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="200px" width="200px" align="right">
 <br>
 <br>
-I'm a Computer Science major at New Jersey Institute of Technology, where I'm a sophomore with junior standing. My passion is developing software solutions that address real-life challenges, both for myself and others. <br>
+I'm a Computer Science major at New Jersey Institute of Technology, where I'm a junior with senior standing. My passion is developing software solutions that address real-life challenges, both for myself and others. <br>
 - 📚 I’m currently working on ao5 - see below! <br>
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, powerlifting, and speedcubing.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
