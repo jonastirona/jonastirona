@@ -15,6 +15,10 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 > <a href="https://drive.google.com/file/d/119LZhRpkaKRYS680_qSfpeIraN7HpFWN/view?usp=sharing" download><strong>Here's my resume!</strong></a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonastirona&theme=tokyonight" alt="GitHub Stats" width="600" />
+</div>
+
 <br><br>
 **🚀 Currently Working On: ao5**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
