@@ -5,8 +5,11 @@
 <img src="https://media.tenor.com/jeYb8iK3YfsAAAAi/skull-skullgif.gif" height="200px" width="200px" align="right">
 <br>
 <br>
-I'm a Computer Science major at New Jersey Institute of Technology, where I'm a junior with senior standing. My passion is developing software solutions that address real-life challenges, both for myself and others. <br>
-- 📚 I’m currently working on ao5 - see below! <br>
+I’m a machine learning/software engineer, passionate about both theoretical research and production software.
+
+On the research side, I develop neural networks to advance solar activity forecasting in heliophysics. 
+On the swe side, I build scalable full-stack software and AI systems for impactful products. <br>
+- 📚 I’m currently working on ao5, and completed a machine learning heliophysics project - see below! <br>
 - Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, powerlifting, and speedcubing.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
 
@@ -15,14 +18,11 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 > <a href="https://drive.google.com/file/d/119LZhRpkaKRYS680_qSfpeIraN7HpFWN/view?usp=sharing" download><strong>Here's my resume!</strong></a>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonastirona&theme=tokyonight" alt="GitHub Stats" width="600" />
-</div>
-
 <br><br>
-**🚀 Currently Working On: ao5**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+### Here are a couple of my favorite projects:
+
+**🚀 Currently Working On: ao5**
 <div align="center">
   <a href="https://ao5.app">
     <img src="https://ao5.app/logo.png" width="120" alt="ao5 Logo" style="border-radius: 20px;">
@@ -46,6 +46,26 @@ I'm a Computer Science major at New Jersey Institute of Technology, where I'm a 
 
   
 <br><br>
+
+**🚀 My favorite completed project: AR Emergence Transformers**
+<div align="center">
+  <h3><a href="https://github.com/jonastirona/ar-emergence-transformers">AR Emergence Transformers</a></h3>
+  <p>
+    Developed as part of my Machine Learning Research Internship at NJIT (in collaboration with NASA & Princeton University), 
+    <strong>AR Emergence Transformers</strong> is a Transformer-based model that forecasts continuum intensity decreases during 
+    solar active region (AR) emergence. The model provides up to <strong>4.7 hours early warning</strong> and achieves a 
+    <strong>10.6% RMSE improvement</strong> over LSTM baselines, advancing short-term solar activity prediction.
+  </p>
+  <p>
+    Built with <strong>PyTorch</strong>, <strong>NumPy</strong>, and <strong>Matplotlib</strong> for modeling and evaluation.
+  </p>
+  <p>
+    <a href="https://arxiv.org/abs/2601.13144"><strong>📄 Read Preprint</strong></a>
+  </p>
+</div>
+<br>
+
+
 **😎 Tech Stack**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -96,14 +116,18 @@ Here are a few things I've picked up along my learning journey!
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**🔥 Github Stats**
+**🔥 GitHub Stats**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonastirona&theme=material-palenight&hide_border=true" alt="Streak Stats" height="190px">
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonastirona&theme=tokyonight" alt="GitHub Profile Summary" height="165px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonastirona&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" height="190px">
 </div>
+
 <br>
+
 <img src="https://komarev.com/ghpvc/?username=jonastirona&style=for-the-badge&color=blueviolet" alt="Profile Views Counter"/>
+
 
 **📫 Reach out!**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
