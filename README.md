@@ -10,7 +10,7 @@ I’m a machine learning/software engineer, passionate about both theoretical re
 On the research side, I develop neural networks to advance solar activity forecasting in heliophysics. 
 On the swe side, I build scalable full-stack software and AI systems for impactful products. <br>
 - 📚 I’m currently working on ao5, and completed a machine learning heliophysics project - see below! <br>
-- Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, powerlifting, and speedcubing.<br>
+- Outside tech, I enjoy hanging out with friends, rock climbing, playing volleyball, golfing, powerlifting, and speedcubing.<br>
 - 📫 Reach out to me at: <a href="jonastirona1@gmail.com">jonastirona1@gmail.com</a>
 
 ### Are you an employer?
