@@ -53,14 +53,14 @@ On the swe side, I build scalable full-stack software and AI systems for impactf
   <p>
     Developed as part of my Machine Learning Research Internship at NJIT (in collaboration with NASA & Princeton University), 
     <strong>AR Emergence Transformers</strong> is a Transformer-based model that forecasts continuum intensity decreases during 
-    solar active region (AR) emergence. The model provides up to <strong>4.7 hours early warning</strong> and achieves a 
+    solar active region (AR) emergence. The model provides up to <strong>9.2 hours early warning</strong> and achieves a 
     <strong>10.6% RMSE improvement</strong> over LSTM baselines, advancing short-term solar activity prediction.
   </p>
   <p>
     Built with <strong>PyTorch</strong>, <strong>NumPy</strong>, and <strong>Matplotlib</strong> for modeling and evaluation.
   </p>
   <p>
-    <a href="https://arxiv.org/abs/2601.13144"><strong>📄 Read Preprint</strong></a>
+    <a href="https://doi.org/10.1029/2025JH001207"><strong>📄 Read Paper</strong></a>
   </p>
 </div>
 <br>
